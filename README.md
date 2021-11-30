@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashley-OTF
 - 👀 I’m interested in internet freedom
-- 🌱 I’m currently learning about tools and techniques to circumvent censorship and surveillance
+- 🌱 I’m currently learning about tools and techniques to circumvent censorship and surveillance online
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
